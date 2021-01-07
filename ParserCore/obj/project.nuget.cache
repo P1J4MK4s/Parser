@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "fgmiTRViqShTfAiktcuDU4+kfzyBC3I3rQ+lbv8af7LEC8QxE/QHEvX1EQJXb9rMzG9wMIZ/NvCWyRf/mO6BUw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\still\\source\\repos\\ParserCore\\ParserCore\\ParserCore.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\still\\.nuget\\packages\\htmlagilitypack\\1.11.29\\htmlagilitypack.1.11.29.nupkg.sha512"
+  ],
+  "logs": []
+}
